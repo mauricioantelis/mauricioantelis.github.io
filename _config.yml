@@ -17,7 +17,7 @@
 
 title: Mauricio Antelis
 email: mauricio.antelis@gmail.com
-description: Full time professor of the Computer Science Department of Tecnologico de Monterrey
+description: 
 twitter_username: 
 github_username: 
 minimal_mistakes_skin: default # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
@@ -77,7 +77,7 @@ collections:
 # ***************************************************************************
 # Site Author
 author:
-  name             : "Mauricio Antelis"
+  name             : # "Mauricio Antelis"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Professor-Researher, Computer Science Department, Tecnologico de Monterrey."
   location         : "Monterrey, NL, Mexico"
