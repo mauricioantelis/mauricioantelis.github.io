@@ -14,7 +14,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Mauricio Antelis title
+title: Mauricio Antelis
 email: mauricio.antelis@gmail.com
 description: Full time professor of the Computer Science Department of Tecnologico de Monterrey
 twitter_username: 
@@ -76,8 +76,8 @@ collections:
 # ***************************************************************************
 # Site Author
 author:
-  name             : "Mauricio Antelis"
-  avatar           : #"/assets/images/bio-photo.jpg"
+  name             : #"Mauricio Antelis"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Professor-Researher, Computer Science Department, Tecnologico de Monterrey."
   location         : "Monterrey, NL, Mexico"
   email            :
