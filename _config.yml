@@ -101,8 +101,8 @@ author:
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Javier-Antelis/"      
-    - label: "CV"
-      url: "https://mauricioantelis.github.io/assets/CV2023.pdf"
+#    - label: "CV"
+#      url: "https://mauricioantelis.github.io/assets/CV2023.pdf"
 
 # ***************************************************************************
 # Site Footer
