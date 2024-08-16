@@ -78,7 +78,7 @@ collections:
 # Site Author
 author:
   name             : # "Mauricio Antelis"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/NTLab_Logo.png"
   bio              : "Professor-Researher, Computer Science Department, Tecnologico de Monterrey."
   location         : "Monterrey, NL, Mexico"
   email            :
