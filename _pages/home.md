@@ -11,6 +11,7 @@ I am professor and researcher of the Computer Science Department of [Tecnologico
 
 My research focuses on the development of innovative solutions to address technical and scientific problems related to health, gravitational wave astronomy, and educational innovation.
 
+![imageexamples](/assets/images/bio-photo-2.jpg)
 
 
 ### Research Lab in Neurotechnology and Brain-Computer Interfaces (NTLab)
