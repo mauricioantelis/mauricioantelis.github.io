@@ -18,6 +18,6 @@ I lead the [Neurotechnology and Brain-Computer Interface Laboratory (NTLab)](htt
 
 I am co-leader of the [Gravitational Wave Data Analysis Group](http://gravitationalwaves.mx/) where I am in charge of the research activities in computational statistics and AI for gravitational waves detection and parameter estimation.  I focus in the implementation and deployment of machine/deep learning methods and Bayesian inference techniques. 
 
-![imageexamples](/assets/images/bio-photo.jpg)
+![imageexamples](/assets/images/GWDALogo.jpeg)
 
 
