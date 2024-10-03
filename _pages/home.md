@@ -17,7 +17,7 @@ My research focuses on the development of innovative solutions to address techni
 
 Visit the [NTLab](http://gravitationalwaves.mx/)
 
-![imageexamples](/assets/images/NTLab_Logo.png)
+![imageexamples](/assets/images/NTLab_Logo2.png)
 
 
 ###  Research in computational statistics and AI for gravitational waves
