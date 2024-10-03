@@ -78,9 +78,9 @@ collections:
 # Site Author
 author:
   name             : # "Mauricio Antelis"
-  avatar           : "/assets/images/NTLab_Logo2.png"
-  #bio              : "Professor-Researher, Computer Science Department, Tecnologico de Monterrey."
-  bio              : "Neurotechnology and brain-computer interfaces laboratory (NTLab)"
+  avatar           : "/assets/images/NTLabLogo0.png"
+  bio              : "Professor-Researher, Computer Science Department, Tecnologico de Monterrey."
+  #bio              : "Neurotechnology and brain-computer interfaces laboratory (NTLab)"
   location         : "Monterrey, NL, Mexico"
   email            :
   links:
