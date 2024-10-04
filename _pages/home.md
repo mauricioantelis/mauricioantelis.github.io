@@ -20,5 +20,5 @@ I am co-leader of the [Gravitational Wave Data Analysis Group](http://gravitatio
 
 ![imageexamples](/assets/images/GWDALogo.jpeg =600x219)
 
-<img src="/assets/images/GWDALogo.jpeg" alt="Alt Text" width="600" height="219">
+<img src="/assets/images/GWDALogo.jpeg" alt="Alt Text" >
 
