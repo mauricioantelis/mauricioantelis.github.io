@@ -93,12 +93,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mauricioantelis"
-    - label: "ORCID"
-      icon: "fab fa-fw fa-orcid"
-      url: "https://orcid.org/0000-0003-3377-0813"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/javier-m-antelis/"
+#    - label: "ORCID"
+#      icon: "fab fa-fw fa-orcid"
+#      url: "https://orcid.org/0000-0003-3377-0813"      
 #    - label: "ResearchGate"
 #      icon: "fab fa-fw fa-researchgate"
 #      url: "https://www.researchgate.net/profile/Javier-Antelis/"      
@@ -107,14 +107,20 @@ author:
 
 # ***************************************************************************
 # Site Footer
-#footer:
-#  links:
-#    - label: "Email"
-#      icon: "fas fa-fw fa-envelope-square"
-#      #url: "mailto:mauricio.antelis@gmail.com"
-#    - label: "LinkedIn"
-#      icon: "fab fa-fw fa-linkedin-in"
-#      #url: "https://www.linkedin.com/in/javier-m-antelis/"
+footer:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:mauricio.antelis@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://mauricioantelis.github.io/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mauricioantelis"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/javier-m-antelis/"
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
 #      #url:
