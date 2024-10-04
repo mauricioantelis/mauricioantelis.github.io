@@ -28,7 +28,7 @@ This is a lst of projects I have developed
 
 
 ### Other projects
-
+![imageexamples](/assets/images/NTLab_Logo2.png)
 
 
 
