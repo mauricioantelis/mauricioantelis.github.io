@@ -15,7 +15,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Mauricio Antelis # NTLab
+title: NTLab # Mauricio Antelis
 email: mauricio.antelis@gmail.com
 description: 
 twitter_username: 
@@ -79,8 +79,8 @@ collections:
 author:
   name             : # "Mauricio Antelis"
   avatar           : "/assets/images/NTLabLogo0.png"
-  bio              : "Professor-Researher, Computer Science Department, Tecnologico de Monterrey."
-  #bio              : "Neurotechnology and brain-computer interfaces laboratory (NTLab)"
+  #bio              : "Professor-Researher, Computer Science Department, Tecnologico de Monterrey."
+  bio              : "Neurotechnology and brain-computer interfaces laboratory (NTLab)"
   location         : "Monterrey, NL, Mexico"
   email            :
   links:
